@@ -1,11 +1,16 @@
 <em>Hello everyone</em>
 <br>
 👋 Hi, I’m @jerapepe
-👀 I’m interested in programming
+<br>
+👀 
+I’m interested in programming
+<br>
 🌱 I’m currently learning Golang
+<br>
 💞️ I’m looking to collaborate on open source software
+<br>
 📫 How to reach me Discord Jera
-
+<br>
 
 <em></em>
 
