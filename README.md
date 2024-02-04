@@ -1,5 +1,5 @@
 <em>Hello everyone</em>
-
+<br>
 👋 Hi, I’m @jerapepe
 👀 I’m interested in programming
 🌱 I’m currently learning Golang
@@ -12,4 +12,5 @@
 
 
 <em>Top languages</em>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerapepe&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
